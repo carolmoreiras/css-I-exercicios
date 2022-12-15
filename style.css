@@ -1,0 +1,59 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap'); */
+
+#bloco-1 {
+    background-color: #e18f39;
+    color: #ffffff ;
+    border: 4px solid #ECA74E;
+    margin: 8px;
+    width: 260px;
+    height: 55px;
+    font-size: 14px;
+}
+    h1 {
+        /* font-family: 'Emilys Candy', cursive; */
+        line-height: 0;
+        text-indent: 10px;
+    }
+
+    p {
+        /* font-family: 'Dosis', sans-serif; */
+        line-height: 0;
+        text-indent: 10px;
+    }
+
+#bloco-2 {
+    background-color: #3C7F4E;
+    color: #ffffff ;
+    border: 4px solid #51A676;
+    margin: 8px;
+    width: 260px;
+    height: 55px;
+    font-size: 14px;
+}
+
+#bloco-3 {
+    background-color: #1E4633;
+    color: #ffffff ;
+    border: 4px #64CD7B;
+    border-style: dashed;
+    margin: 8px;
+    width: 260px;
+    height: 55px;
+    font-size: 14px;
+}
+
+#bloco-4 {
+    background-color: #DC3F2B;
+    color: #ffffff ;
+    border: 4px #E98274;
+    border-style: dashed;
+    margin: 8px;
+    width: 260px;
+    height: 55px;
+    font-size: 14px;
+}
+
+main {
+    font-family: 'Helvetica';
+}
